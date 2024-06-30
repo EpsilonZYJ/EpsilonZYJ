@@ -31,4 +31,11 @@ You can click the Preview link to take a look at your changes.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EpsilonZYJ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-![](https://raw.githubusercontent.com/EpsilonZYJ/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<!-- ![](https://raw.githubusercontent.com/EpsilonZYJ/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+--->
+
+<a href="https://github.com/EpsilonZYJ/github-stats#gh-light-mode-only">
+<img src="https://github.com/EpsilonZYJ/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://github.com/EpsilonZYJ/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+</a>
+
