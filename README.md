@@ -24,8 +24,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EpsilonZYJ&layout=compact" />
 </a>
 -->
-
-[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/EpsilonZYJ)](https://hits.seeyoufarm.com)                    
+                  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/EpsilonZYJ&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EpsilonZYJ&include_all_commits=true&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
