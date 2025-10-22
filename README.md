@@ -77,4 +77,4 @@ To learn more about me, you can visit my website below.
 
 ## You May Want To Find
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EpsilonZYJ&repo=Learn-In-HUST)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EpsilonZYJ&repo=Learn-In-HUST)](https://github.com/EpsilonZYJ/Learn-In-HUST)
