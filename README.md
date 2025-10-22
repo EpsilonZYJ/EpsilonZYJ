@@ -74,3 +74,7 @@ To learn more about me, you can visit my website below.
 ## 🗓️ Activities
 
 ![snake](https://raw.githubusercontent.com/EpsilonZYJ/EpsilonZYJ/refs/heads/output/github-contribution-grid-snake.svg)
+
+## You May Want To Find
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EpsilonZYJ&repo=Learn-In-HUST)](https://github.com/anuraghazra/github-readme-stats)
