@@ -23,7 +23,7 @@
 <!--                  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/EpsilonZYJ&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
-<h1 align="center">Hi, this is @EpsilonZYJ 👋</h1>
+<h1 align="center">👋Hi, this is @EpsilonZYJ</h1>
 
 
 <div align="center">
@@ -64,7 +64,7 @@ To learn more about me, you can visit my website below.
 
 ---
 
-## Currently Working On
+## 📚 Currently Working On
 
 - Graph Transformers for node classification
 - iOS App development (just for fun)
@@ -75,6 +75,6 @@ To learn more about me, you can visit my website below.
 
 ![snake](https://raw.githubusercontent.com/EpsilonZYJ/EpsilonZYJ/refs/heads/output/github-contribution-grid-snake.svg)
 
-## You May Want To Find
+## 🔍 You May Want To Find
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EpsilonZYJ&repo=Learn-In-HUST)](https://github.com/EpsilonZYJ/Learn-In-HUST)
