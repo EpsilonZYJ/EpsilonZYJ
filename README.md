@@ -69,8 +69,6 @@ To learn more about me, you can visit my website below.
 - Graph Transformers for node classification
 - iOS App development (just for fun)
 
----
-
 ## 🗓️ Activities
 
 ![snake](https://raw.githubusercontent.com/EpsilonZYJ/EpsilonZYJ/refs/heads/output/github-contribution-grid-snake.svg)
