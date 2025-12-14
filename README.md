@@ -75,7 +75,9 @@ To learn more about me, you can visit my website below.
 
 ## 🔍 You May Want To Find
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EpsilonZYJ&repo=Learn-In-HUST)](https://github.com/EpsilonZYJ/Learn-In-HUST)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EpsilonZYJ&repo=I-See-Qt)](https://github.com/EpsilonZYJ/I-See-Qt)
-
+<a href="https://github.com/EpsilonZYJ/Learn-In-HUST">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EpsilonZYJ&repo=Learn-In-HUST" />
+</a>
+<a href="https://github.com/EpsilonZYJ/I-See-Qt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EpsilonZYJ&repo=I-See-Qt" />
+</a>
