@@ -27,7 +27,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EpsilonZYJ&count_private=true&show_icons=true&include_all_commits=true&theme=vue" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=EpsilonZYJ&count_private=true&show_icons=true&include_all_commits=true&theme=vue" alt="GitHub Stats" /> -->
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=EpsilonZYJ&short_numbers=true" alt="GitHub Streak" />
 </div>
 
@@ -60,7 +61,7 @@ To learn more about me, you can visit my website below.
 - **Java Spring Boot** for backend
 - **SwiftUI** for iOS App
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EpsilonZYJ&size_weight=0.5&count_weight=0.5&stats_format=bytes&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
