@@ -44,7 +44,7 @@ I am currently an undergraduate student in Huazhong University of Science and Te
 
 To learn more about me, you can visit my website below.
 
-[![](https://img.shields.io/badge/My%20Blog-20B2AA?style=for-the-badge)](https://epsilonzyj.github.io)
+[![](https://img.shields.io/badge/My%20Blog-20B2AA?style=for-the-badge)](https://epsilonzyj.github.io/blog/)
 
 ### 🌟 I am interested in
 
@@ -58,7 +58,7 @@ To learn more about me, you can visit my website below.
 - **Programming language: C/C++, Python, Java, Golang, SQL, Swift, SML, Kotlin, Javascript**
 - **Pytorch**, **TensorFlow** for deep learning
 - **Scikit-learn** for machine learning and data analysis
-- **Java Spring Boot** for backend
+- **Java Spring Boot**, **Gin Web** for backend
 - **SwiftUI** for iOS App
 
 ![Top Languages](./profile/top-langs.svg)
