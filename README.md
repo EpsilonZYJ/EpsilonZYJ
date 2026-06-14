@@ -55,7 +55,7 @@ To learn more about me, you can visit my website below.
 
 ### 💻 Skills
 
-- **Programming language: C/C++, Python, Java, Golang, SQL, Swift, SML, Kotlin, Javascript**
+- **Programming language: C/C++, Python, Java, Golang, SQL, Swift, HTML5, CSS**
 - **Pytorch**, **TensorFlow** for deep learning
 - **Scikit-learn** for machine learning and data analysis
 - **Java Spring Boot**, **Gin Web** for backend
