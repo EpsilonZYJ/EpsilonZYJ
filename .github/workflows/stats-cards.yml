@@ -24,15 +24,15 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&count_private=true&show_icons=true&include_all_commits=true&theme=vue
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Generate pin card
         uses: stats-organization/github-readme-stats-action@v2
@@ -40,7 +40,7 @@ jobs:
           card: pin
           options: username=EpsilonZYJ&repo=Learn-In-HUST
           path: profile/pin-Learn-In-HUST.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Commit cards
         run: |
