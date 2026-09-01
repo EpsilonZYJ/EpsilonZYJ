@@ -1,59 +1,59 @@
 name: Update README cards
 
 on:
-    schedule: # 每天运行一次
-        - cron: "0 0 * * *"
+  schedule: # 每天运行一次
+    - cron: "0 0 * * *"
 
-    workflow_dispatch:
+  workflow_dispatch:
 
-    push:
-        branches:
-            - main
+  push:
+    branches:
+      - main
 
 jobs:
-    build:
-        runs-on: ubuntu-latest
-        permissions:
-            contents: write
-        steps:
-            - uses: actions/checkout@v6
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
 
-            - name: Generate stats card
-              uses: stats-organization/github-readme-stats-action@v2
-              with:
-                  card: stats
-                  options: username=${{ github.repository_owner }}&count_private=true&show_icons=true&include_all_commits=true&theme=vue
-                  path: profile/stats.svg
-                  token: ${{ secrets.GH_PAT }}
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&count_private=true&show_icons=true&include_all_commits=true&theme=vue
+          path: profile/stats.svg
+          token: ${{ secrets.GH_PAT }}
 
-            - name: Generate top languages card
-              uses: stats-organization/github-readme-stats-action@v2
-              with:
-                  card: top-langs
-                  options: username=${{ github.repository_owner }}&layout=compact&langs_count=8
-                  path: profile/top-langs.svg
-                  token: ${{ secrets.GH_PAT }}
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5
+          path: profile/top-langs.svg
+          token: ${{ secrets.GH_PAT }}
 
-            - name: Generate pin card - go-agent
-              uses: stats-organization/github-readme-stats-action@v2
-              with:
-                  card: pin
-                  options: username=EpsilonZYJ&repo=go-agent
-                  path: profile/pin-go-agent.svg
-                  token: ${{ secrets.GH_PAT }}
+      - name: Generate pin card - go-agent
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=EpsilonZYJ&repo=go-agent
+          path: profile/pin-go-agent.svg
+          token: ${{ secrets.GH_PAT }}
 
-            - name: Generate pin card - RMDB
-              uses: stats-organization/github-readme-stats-action@v2
-              with:
-                  card: pin
-                  options: username=EpsilonZYJ&repo=RMDB
-                  path: profile/pin-RMDB.svg
-                  token: ${{ secrets.GH_PAT }}
+      - name: Generate pin card - RMDB
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=EpsilonZYJ&repo=RMDB
+          path: profile/pin-RMDB.svg
+          token: ${{ secrets.GH_PAT }}
 
-            - name: Commit cards
-              run: |
-                  git config user.name "EpsilonZYJ"
-                  git config user.email "143871992+EpsilonZYJ@users.noreply.github.com"
-                  git add profile/*.svg
-                  git commit -m "Update README cards" || exit 0
-                  git push
+      - name: Commit cards
+        run: |
+          git config user.name "EpsilonZYJ"
+          git config user.email "143871992+EpsilonZYJ@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
