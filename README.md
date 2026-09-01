@@ -68,6 +68,7 @@ To learn more about me, you can visit my website below.
 ## 📚 Currently Working On
 
 - Graph Transformers for node classification
+- Backend development
 - iOS App development (just for fun)
 
 ## 🗓️ Activities
@@ -76,9 +77,9 @@ To learn more about me, you can visit my website below.
 
 ## 🔍 You May Want To Find
 
-<a href="https://github.com/EpsilonZYJ/Learn-In-HUST">
-  <img align="center" src="./profile/pin-Learn-In-HUST.svg" height="150" />
+<a href="https://github.com/EpsilonZYJ/go-agent">
+  <img align="center" src="./profile/pin-go-agent.svg" height="150" />
 </a>
-<!-- <a href="https://github.com/EpsilonZYJ/I-See-Qt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EpsilonZYJ&repo=I-See-Qt" height="150" />
-</a> -->
+<a href="https://github.com/EpsilonZYJ/RMDB">
+  <img align="center" src="./profile/pin-RMDB.svg" height="150" />
+</a>
