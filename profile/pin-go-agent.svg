@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">A command-line coding agent built with Go and the</tspan><tspan dy="1.2em" x="25">Anthropic Claude API</tspan>
+      <tspan dy="1.2em" x="25">A command-line coding agent built with Go and the</tspan><tspan dy="1.2em" x="25">Anthropic API.</tspan>
     </text>
 
     <g transform="translate(30, 65)">
