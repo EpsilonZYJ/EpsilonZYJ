@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yujie Zhou&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 40, Total Commits  : 1613, Total PRs: 13, Total Issues: 4, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 40, Total Commits  : 1614, Total PRs: 13, Total Issues: 4, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 161.91542719443643;
+        stroke-dashoffset: 161.9059385935173;
       }
     }
   
